@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+doccure-html.dreamguystech.com	TRUE	/	FALSE	1999999999	cf_ob_info	520:6884d9a9bf7ade7a:BOM
+doccure-html.dreamguystech.com	TRUE	/	FALSE	1999999999	cf_use_ob	0
+
